@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*", 
-      "destination": "https://dexter-3.gitbook.io/dexter-ai-liquidity-management-agent./token-launch-and-roadmap/roadmap",
+      "destination": "https://dexter-3.gitbook.io/dexter-ai-liquidity-management-agent.",
       "permanent": true
     }
   ]
